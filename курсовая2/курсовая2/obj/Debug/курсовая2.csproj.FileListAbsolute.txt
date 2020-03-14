@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\курсовая2\курсовая2\bin\Debug\курсовая2.exe.config
+C:\Users\1\source\repos\курсовая2\курсовая2\bin\Debug\курсовая2.exe
+C:\Users\1\source\repos\курсовая2\курсовая2\bin\Debug\курсовая2.pdb
+C:\Users\1\source\repos\курсовая2\курсовая2\obj\Debug\курсовая2.csprojAssemblyReference.cache
+C:\Users\1\source\repos\курсовая2\курсовая2\obj\Debug\курсовая2.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\курсовая2\курсовая2\obj\Debug\курсовая2.exe
+C:\Users\1\source\repos\курсовая2\курсовая2\obj\Debug\курсовая2.pdb
+C:\Users\1\Desktop\Курсовой проект\курсовая2\курсовая2\bin\Debug\курсовая2.exe.config
+C:\Users\1\Desktop\Курсовой проект\курсовая2\курсовая2\bin\Debug\курсовая2.exe
+C:\Users\1\Desktop\Курсовой проект\курсовая2\курсовая2\bin\Debug\курсовая2.pdb
+C:\Users\1\Desktop\Курсовой проект\курсовая2\курсовая2\obj\Debug\курсовая2.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Курсовой проект\курсовая2\курсовая2\obj\Debug\курсовая2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Курсовой проект\курсовая2\курсовая2\obj\Debug\курсовая2.exe
+C:\Users\1\Desktop\Курсовой проект\курсовая2\курсовая2\obj\Debug\курсовая2.pdb
